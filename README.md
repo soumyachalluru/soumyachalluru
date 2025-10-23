@@ -17,12 +17,12 @@
 - -> 🎓 Master's in Data Science at San Jose State University - focusing on AI, ML and Data
 - -> 📫 Lets chat: soumyachalluru@gmail.com
 
-⚡ **Fun facts about me:**
+⚡ **Fun facts about me**
 - -> I once broke a model so badly it started predicting **its own sadness** 😭  
 - -> I name my backups "Final_version" and end up with "Final_version(12).zip" 💾
 - -> My best optimization technique - **Desperation** 🔥
 
-## 🤝 I love making new connections:
+## 🤝 I love making new connections
 <a href="https://linkedin.com/in/soumya-challuru">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
@@ -30,7 +30,7 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a> 
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 ### 🧠 AI / ML / DL
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -51,7 +51,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-000000.svg?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-005571?style=for-the-badge)
 ![Pinecone](https://img.shields.io/badge/Pinecone-00C2A2?style=for-the-badge)
-![Optuna](https://img.shields.io/badge/Optuna-%232C2C2C.svg?style=for-the-badge)
 ![OpenAI Whisper](https://img.shields.io/badge/OpenAI%20Whisper-412991?style=for-the-badge)
 ![CrewAI](https://img.shields.io/badge/CrewAI-%23000000.svg?style=for-the-badge)
 
@@ -74,7 +73,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
 ### 📊 Data Engineering & Big Data
 
@@ -86,7 +84,6 @@
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-FFFFFF?style=for-the-badge)
 ![Apache Beam](https://img.shields.io/badge/Apache%20Beam-F7971E?style=for-the-badge)
-![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Hive](https://img.shields.io/badge/Hive-FFCC00?style=for-the-badge)
 
@@ -100,9 +97,6 @@
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)\
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) 
-![Shell](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge)
 
 ### 🎨 Visualization & APIs

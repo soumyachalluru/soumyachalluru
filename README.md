@@ -15,9 +15,9 @@
 - 📫 Lets chat: soumyachalluru@gmail.com
 
 ⚡ **Fun facts about me:**
--> I once broke a model so badly it started predicting **its own sadness** 😭  
--> I name my backups "Final_version" and end up with "Final_version(12).zip" 💾
--> My best optimization technique - **Desperation** 🔥
+- I once broke a model so badly it started predicting **its own sadness** 😭  
+- I name my backups "Final_version" and end up with "Final_version(12).zip" 💾
+- My best optimization technique - **Desperation** 🔥
 
 ## 🤝 I love making new connections:
 <a href="https://linkedin.com/in/soumya-challuru">

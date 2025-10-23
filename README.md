@@ -13,7 +13,8 @@
     <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"/>
 </p>
 
-- -> 🎓 Master's in Data Science at San Jose State University
+**Intro**
+- -> 🎓 Master's in Data Science at San Jose State University - focusing on AI, ML and Data
 - -> 📫 Lets chat: soumyachalluru@gmail.com
 
 ⚡ **Fun facts about me:**

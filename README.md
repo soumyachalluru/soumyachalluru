@@ -99,7 +99,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge)
 
-### 🎨 Visualization & APIs
+### 🎨 Visualization 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST-000000?style=for-the-badge&logo=api)

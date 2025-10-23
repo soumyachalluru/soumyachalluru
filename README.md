@@ -1,7 +1,7 @@
 <h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Soumya Challuru Sreenivas </h2>
 <h3 align="center">🚀 Builder | AI ML Engineer | Data Scientist </h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;AI%20|%20ML%20|%20Data+Science%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer%20|%20ML+Engineer%20|%20Data+Science%20&center=true&width=380&height=45"></a>
 </p>
 <h4 align="center">Some play chess, some play checkers .. I just play with APIs</h4>
 <div>
